@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mattekir.win</title>
+    <link>https://mattekir.win/</link>
+    <description>Recent content on mattekir.win</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 20:28:54 -0400</lastBuildDate><atom:link href="https://mattekir.win/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea</title>
+      <link>https://mattekir.win/posts/idea/</link>
+      <pubDate>Sun, 13 Aug 2023 20:28:54 -0400</pubDate>
+      
+      <guid>https://mattekir.win/posts/idea/</guid>
+      <description>ideas for this site comics art pieces skill tree </description>
+    </item>
+    
+  </channel>
+</rss>
