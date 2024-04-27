@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mattekir.win/docs/comics/</loc>
+    <loc>https://mattekir.win/starter-kits/digital-intentionalism/</loc>
   </url><url>
     <loc>https://mattekir.win/docs/stories/</loc>
   </url><url>
+    <loc>https://mattekir.win/starter-kits/foraging/</loc>
+  </url><url>
     <loc>https://mattekir.win/docs/milestones/</loc>
+  </url><url>
+    <loc>https://mattekir.win/starter-kits/sourdough/</loc>
+  </url><url>
+    <loc>https://mattekir.win/docs/starter-kits/</loc>
+  </url><url>
+    <loc>https://mattekir.win/docs/comics/</loc>
   </url><url>
     <loc>https://mattekir.win/categories/</loc>
   </url><url>
     <loc>https://mattekir.win/docs/</loc>
   </url><url>
     <loc>https://mattekir.win/</loc>
+  </url><url>
+    <loc>https://mattekir.win/starter-kits/</loc>
   </url><url>
     <loc>https://mattekir.win/tags/</loc>
   </url>
