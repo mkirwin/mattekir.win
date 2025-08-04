@@ -1,32 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Starter-Kits on mattekir.win</title>
-    <link>https://mattekir.win/starter-kits/</link>
-    <description>Recent content in Starter-Kits on mattekir.win</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://mattekir.win/starter-kits/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>digital intentionalism</title>
-      <link>https://mattekir.win/starter-kits/digital-intentionalism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/starter-kits/digital-intentionalism/</guid>
-      <description> digital intentionalism starter kit # </description>
-    </item>
-    <item>
-      <title>foraging starter kit</title>
-      <link>https://mattekir.win/starter-kits/foraging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/starter-kits/foraging/</guid>
-      <description>foraging starter kit # so you want to eat stuff outside? # by Matte Kirwin&#xA;last edited 06 April 2023&#xA;(sept 2022) i’m on vacation right now so this doc is incomplete. but it should have the bare minimum to get you started!&#xA;getting inspired and learning # Videos: # Black Forager on TikTok and instagram is a great starting point. she’s incredibly informative, inspiring, and funny Books, general foraging # Northeast Foraging, if you live in the northeast of the US this book is the perfect starter book.</description>
-    </item>
-    <item>
-      <title>sourdough</title>
-      <link>https://mattekir.win/starter-kits/sourdough/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/starter-kits/sourdough/</guid>
-      <description> sourdough starter kit # </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Starter-Kits on mattekir.win</title><link>https://mattekir.win/starter-kits/</link><description>Recent content in Starter-Kits on mattekir.win</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://mattekir.win/starter-kits/index.xml" rel="self" type="application/rss+xml"/><item><title>digital intentionalism</title><link>https://mattekir.win/starter-kits/digital-intentionalism/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/starter-kits/digital-intentionalism/</guid><description>&lt;h1 id="digital-intentionalism-starter-kit">
+ digital intentionalism starter kit
+ &lt;a class="anchor" href="#digital-intentionalism-starter-kit">#&lt;/a>
+&lt;/h1></description></item><item><title>foraging starter kit</title><link>https://mattekir.win/starter-kits/foraging/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/starter-kits/foraging/</guid><description>&lt;h1 id="foraging-starter-kit">
+ foraging starter kit
+ &lt;a class="anchor" href="#foraging-starter-kit">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="so-you-want-to-eat-stuff-outside">
+ so you want to eat stuff outside?
+ &lt;a class="anchor" href="#so-you-want-to-eat-stuff-outside">#&lt;/a>
+&lt;/h2>
+&lt;p>by Matte Kirwin&lt;/p>
+&lt;p>last edited 28 July 2025&lt;/p>
+&lt;p>(sept 2022) i’m on vacation right now so this doc is incomplete. but it should have the bare minimum to get you started!&lt;/p>
+&lt;p>&lt;a href="https://www.instagram.com/eatingstuffoutside/">@eatingstuffoutside&lt;/a>&lt;/p>
+&lt;h2 id="getting-inspired-and-learning">
+ getting inspired and learning
+ &lt;a class="anchor" href="#getting-inspired-and-learning">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="videos">
+ Videos:
+ &lt;a class="anchor" href="#videos">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Black Forager on TikTok and instagram is a great starting point.
+&lt;ul>
+&lt;li>she’s incredibly informative, inspiring, and funny&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="books-general-foraging">
+ Books, general foraging
+ &lt;a class="anchor" href="#books-general-foraging">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.amazon.com/Northeast-Foraging-Flavorful-Wineberries-Regional/dp/1604694173">Northeast Foraging&lt;/a>, if you live in the northeast of the US this book is the perfect starter book. you can read over what’s available in your area and then start looking for it.
+&lt;ul>
+&lt;li>this was my first foraging book and i ate tons of stuff around boston using this book&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>there are books from the same series for other regions, e.g. midwest foraging.&lt;/li>
+&lt;/ul>
+&lt;h3 id="books-mushrooms">
+ Books, mushrooms
+ &lt;a class="anchor" href="#books-mushrooms">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.amazon.com/Mushrooming-without-Fear-Beginners-Collecting/dp/1602391602">Mushrooming without Fear&lt;/a>
+&lt;ul>
+&lt;li>extreme beginner book, makes sure every shroom is from a completely non toxic family. so it’s impossible to get poisonous mushrooms if you’re following everything in the book&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.amazon.com/Mushrooming-Confidence-Collecting-Edible-Mushrooms/dp/1620871955">Mushrooming with Confidence&lt;/a>
+&lt;ul>
+&lt;li>book by the same author. i think of this as the intermediate book that you’d read after mushrooming without fear.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="identification">
+ identification
+ &lt;a class="anchor" href="#identification">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>always have 3 forms of positive ID.&lt;/li>
+&lt;li>even then, taste test. only eat a little (tbh see if you have a bad digestive reaction). &lt;strong>look up if it needs to be cooked first.&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="the-three-forms-of-identification-i-use">
+ the three forms of identification i use
+ &lt;a class="anchor" href="#the-three-forms-of-identification-i-use">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>foraging books&lt;/li>
+&lt;li>&lt;a href="https://www.inaturalist.org/pages/seek_app">Seek app&lt;/a> by iNaturalist or &lt;a href="https://lens.google/#cta-section">Google Lens&lt;/a>, these are helpful but not 100% reliable. ALWAYS check another form of ID.&lt;/li>
+&lt;li>facebook foraging groups, local to you (literally search on FB: &lt;code>foraging &amp;lt;location&amp;gt;&lt;/code> or &lt;code>foraging and identification &amp;lt;location&amp;gt;&lt;/code>
+&lt;ul>
+&lt;li>For Massachusetts people:
+&lt;ul>
+&lt;li>&lt;a href="https://www.facebook.com/groups/690403547760993">Foraging Southern New England&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/groups/477464813304162">Foraging with Friends RI/MA/CT&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/groups/330632460416930">The New England Mushroom Identification Forum&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>google “green leaves with white undersides massachusetts”&lt;/li>
+&lt;li>google whatever you think you have found thru apps or books and TRIPLE CHECK ALL IDENTIFYING CHARACTERISTICS ARE THE SAME&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>if you’re unsure at all DO NOT EAT&lt;/strong>&lt;/p></description></item><item><title>sourdough</title><link>https://mattekir.win/starter-kits/sourdough/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/starter-kits/sourdough/</guid><description>&lt;h1 id="sourdough-starter-kit">
+ sourdough starter kit
+ &lt;a class="anchor" href="#sourdough-starter-kit">#&lt;/a>
+&lt;/h1></description></item></channel></rss>

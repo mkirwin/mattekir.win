@@ -1,39 +1,130 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docs on mattekir.win</title>
-    <link>https://mattekir.win/docs/</link>
-    <description>Recent content in Docs on mattekir.win</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://mattekir.win/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>favorite stories</title>
-      <link>https://mattekir.win/docs/stories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/docs/stories/</guid>
-      <description>favorite stories # anime # my hero academia ranma 1/2 dbz blue period parasyte violet evergarden attack on titan revolutionary girl utena anime movies # suzume spirited away pokemon heroes: the movie (latios and latias) tv shows # legend of korra the owl house avatar: the last airbender the dragon prince one piece (netflix, live) futurama extraordinary attorney woo sense8 bluey pose she-ra tuca and bertie sex education the witcher books # light from uncommon stars PET iron widow six crimson cranes / the dragon&amp;rsquo;s promise the little prince on earth we&amp;rsquo;re briefly gorgeous the magic fish the alchemist in the dream house inheritance cycle the elegance of the hedgehog a mango shaped space the miraculous journey of edward tulane the tale of despereaux movies # mr.</description>
-    </item>
-    <item>
-      <title>milestones</title>
-      <link>https://mattekir.win/docs/milestones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/docs/milestones/</guid>
-      <description>milestones # 2024 (27) # baked a lot of sourdough bread :D took a break from everything learned to identify a mourning dove (Zenaida macroura) tried flameworking (glass) and throwing on a pottery wheel 2023 (26) # biked from boston to canada hit by (someone driving) a car while on bike kung fu tournament had a kitchen counter chose paint colors for own home started paying dad&amp;rsquo;s utility bills surly midnight special, in perry winkle&amp;rsquo;s sparkle learned about protein 2022 (25) # prefrontal cortex developed published in brick lit mag + talk learned how to cartwheel?</description>
-    </item>
-    <item>
-      <title>starter kits</title>
-      <link>https://mattekir.win/docs/starter-kits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/docs/starter-kits/</guid>
-      <description> starter kits # one of my special interests is learning about skill sets that could become new special interests. the kits below are some of my favorites!&#xA;sourdough digital intentionalism foraging </description>
-    </item>
-    <item>
-      <title>comics</title>
-      <link>https://mattekir.win/docs/comics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mattekir.win/docs/comics/</guid>
-      <description> comics # them. my first webtoon! </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on mattekir.win</title><link>https://mattekir.win/docs/</link><description>Recent content in Docs on mattekir.win</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://mattekir.win/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>favorite stories</title><link>https://mattekir.win/docs/stories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/stories/</guid><description>&lt;h1 id="favorite-stories">
+ favorite stories
+ &lt;a class="anchor" href="#favorite-stories">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="anime">
+ anime
+ &lt;a class="anchor" href="#anime">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>my hero academia&lt;/li>
+&lt;li>ranma 1/2&lt;/li>
+&lt;li>dbz&lt;/li>
+&lt;li>blue period&lt;/li>
+&lt;li>parasyte&lt;/li>
+&lt;li>violet evergarden&lt;/li>
+&lt;li>attack on titan&lt;/li>
+&lt;li>revolutionary girl utena&lt;/li>
+&lt;/ul>
+&lt;h2 id="anime-movies">
+ anime movies
+ &lt;a class="anchor" href="#anime-movies">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>suzume&lt;/li>
+&lt;li>spirited away&lt;/li>
+&lt;li>pokemon heroes: the movie (latios and latias)&lt;/li>
+&lt;/ul>
+&lt;h2 id="tv-shows">
+ tv shows
+ &lt;a class="anchor" href="#tv-shows">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>legend of korra&lt;/li>
+&lt;li>the owl house&lt;/li>
+&lt;li>avatar: the last airbender&lt;/li>
+&lt;li>the dragon prince&lt;/li>
+&lt;li>one piece (netflix, live)&lt;/li>
+&lt;li>futurama&lt;/li>
+&lt;li>extraordinary attorney woo&lt;/li>
+&lt;li>sense8&lt;/li>
+&lt;li>bluey&lt;/li>
+&lt;li>pose&lt;/li>
+&lt;li>she-ra&lt;/li>
+&lt;li>tuca and bertie&lt;/li>
+&lt;li>sex education&lt;/li>
+&lt;li>the witcher&lt;/li>
+&lt;/ul>
+&lt;h2 id="books">
+ books
+ &lt;a class="anchor" href="#books">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>light from uncommon stars&lt;/li>
+&lt;li>PET&lt;/li>
+&lt;li>iron widow&lt;/li>
+&lt;li>six crimson cranes / the dragon&amp;rsquo;s promise&lt;/li>
+&lt;li>the little prince&lt;/li>
+&lt;li>on earth we&amp;rsquo;re briefly gorgeous&lt;/li>
+&lt;li>the magic fish&lt;/li>
+&lt;li>the alchemist&lt;/li>
+&lt;li>in the dream house&lt;/li>
+&lt;li>inheritance cycle&lt;/li>
+&lt;li>the elegance of the hedgehog&lt;/li>
+&lt;li>a mango shaped space&lt;/li>
+&lt;li>the miraculous journey of edward tulane&lt;/li>
+&lt;li>the tale of despereaux&lt;/li>
+&lt;/ul>
+&lt;h2 id="movies">
+ movies
+ &lt;a class="anchor" href="#movies">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>mr. nobody&lt;/li>
+&lt;li>parasite&lt;/li>
+&lt;li>puss in boots, the last wish&lt;/li>
+&lt;li>after yang&lt;/li>
+&lt;li>shrek&lt;/li>
+&lt;/ul></description></item><item><title>milestones</title><link>https://mattekir.win/docs/milestones/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/milestones/</guid><description>&lt;h1 id="milestones">
+ milestones
+ &lt;a class="anchor" href="#milestones">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="2024-27">
+ 2024 (27)
+ &lt;a class="anchor" href="#2024-27">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>baked a lot of sourdough bread :D&lt;/li>
+&lt;li>took a break from everything&lt;/li>
+&lt;li>learned to identify a mourning dove (Zenaida macroura)&lt;/li>
+&lt;li>tried flameworking (glass) and throwing on a pottery wheel&lt;/li>
+&lt;/ul>
+&lt;h2 id="2023-26">
+ 2023 (26)
+ &lt;a class="anchor" href="#2023-26">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>biked from boston to canada&lt;/li>
+&lt;li>hit by (someone driving) a car while on bike&lt;/li>
+&lt;li>kung fu tournament&lt;/li>
+&lt;li>had a kitchen counter&lt;/li>
+&lt;li>chose paint colors for own home&lt;/li>
+&lt;li>started paying dad&amp;rsquo;s utility bills&lt;/li>
+&lt;li>surly midnight special, in perry winkle&amp;rsquo;s sparkle&lt;/li>
+&lt;li>learned about protein&lt;/li>
+&lt;/ul>
+&lt;h2 id="2022-25">
+ 2022 (25)
+ &lt;a class="anchor" href="#2022-25">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>prefrontal cortex developed&lt;/li>
+&lt;li>published in brick lit mag + talk&lt;/li>
+&lt;li>learned how to cartwheel?&lt;/li>
+&lt;li>learned how to weld (tig, mig, stick); welded a metal flower that could be used as a weapon&lt;/li>
+&lt;/ul></description></item><item><title>starter kits</title><link>https://mattekir.win/docs/starter-kits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/starter-kits/</guid><description>&lt;h1 id="starter-kits">
+ starter kits
+ &lt;a class="anchor" href="#starter-kits">#&lt;/a>
+&lt;/h1>
+&lt;p>one of my special interests is learning about skill sets that could &lt;em>become&lt;/em> new special interests. the kits below are some of my favorites!&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/sourdough/">sourdough&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/digital-intentionalism/">digital intentionalism&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/foraging/">foraging&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>comics</title><link>https://mattekir.win/docs/comics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/comics/</guid><description>&lt;h1 id="comics">
+ comics
+ &lt;a class="anchor" href="#comics">#&lt;/a>
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://www.webtoons.com/en/canvas/them/list?title_no=849768&amp;amp;title_no=849768">them&lt;/a>. my first webtoon!&lt;/li>
+&lt;/ul></description></item></channel></rss>
