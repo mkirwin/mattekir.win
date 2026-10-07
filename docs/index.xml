@@ -1,39 +1,310 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docs on mattekir.win</title>
-    <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on mattekir.win</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>favorite stories</title>
-      <link>http://localhost:1313/docs/stories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/stories/</guid>
-      <description>&lt;h1 id=&#34;favorite-stories&#34;&gt;&#xA;  favorite stories&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#favorite-stories&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;anime&#34;&gt;&#xA;  anime&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#anime&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;my hero academia&lt;/li&gt;&#xA;&lt;li&gt;ranma 1/2&lt;/li&gt;&#xA;&lt;li&gt;dbz&lt;/li&gt;&#xA;&lt;li&gt;blue period&lt;/li&gt;&#xA;&lt;li&gt;parasyte&lt;/li&gt;&#xA;&lt;li&gt;violet evergarden&lt;/li&gt;&#xA;&lt;li&gt;attack on titan&lt;/li&gt;&#xA;&lt;li&gt;revolutionary girl utena&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;manga&#34;&gt;&#xA;  manga&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#manga&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;blue period&lt;/li&gt;&#xA;&lt;li&gt;my dress-up darling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;anime-movies&#34;&gt;&#xA;  anime movies&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#anime-movies&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;suzume&lt;/li&gt;&#xA;&lt;li&gt;spirited away&lt;/li&gt;&#xA;&lt;li&gt;pokemon heroes: the movie (latios and latias)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tv-shows&#34;&gt;&#xA;  tv shows&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tv-shows&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;legend of korra&lt;/li&gt;&#xA;&lt;li&gt;alchemy of souls&lt;/li&gt;&#xA;&lt;li&gt;the owl house&lt;/li&gt;&#xA;&lt;li&gt;orphan black&lt;/li&gt;&#xA;&lt;li&gt;avatar: the last airbender&lt;/li&gt;&#xA;&lt;li&gt;the dragon prince&lt;/li&gt;&#xA;&lt;li&gt;one piece (netflix, live)&lt;/li&gt;&#xA;&lt;li&gt;futurama&lt;/li&gt;&#xA;&lt;li&gt;extraordinary attorney woo&lt;/li&gt;&#xA;&lt;li&gt;sense8&lt;/li&gt;&#xA;&lt;li&gt;bluey&lt;/li&gt;&#xA;&lt;li&gt;pose&lt;/li&gt;&#xA;&lt;li&gt;she-ra&lt;/li&gt;&#xA;&lt;li&gt;tuca and bertie&lt;/li&gt;&#xA;&lt;li&gt;sex education&lt;/li&gt;&#xA;&lt;li&gt;the witcher&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;books&#34;&gt;&#xA;  books&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#books&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;light from uncommon stars&lt;/li&gt;&#xA;&lt;li&gt;PET&lt;/li&gt;&#xA;&lt;li&gt;iron widow&lt;/li&gt;&#xA;&lt;li&gt;six crimson cranes / the dragon&amp;rsquo;s promise&lt;/li&gt;&#xA;&lt;li&gt;legendborn, bloodmarked, oathbound&lt;/li&gt;&#xA;&lt;li&gt;iron widow, heavenly tyrant&lt;/li&gt;&#xA;&lt;li&gt;the little prince&lt;/li&gt;&#xA;&lt;li&gt;on earth we&amp;rsquo;re briefly gorgeous&lt;/li&gt;&#xA;&lt;li&gt;the magic fish&lt;/li&gt;&#xA;&lt;li&gt;the alchemist&lt;/li&gt;&#xA;&lt;li&gt;in the dream house&lt;/li&gt;&#xA;&lt;li&gt;inheritance cycle&lt;/li&gt;&#xA;&lt;li&gt;the elegance of the hedgehog&lt;/li&gt;&#xA;&lt;li&gt;a mango shaped space&lt;/li&gt;&#xA;&lt;li&gt;the miraculous journey of edward tulane&lt;/li&gt;&#xA;&lt;li&gt;the tale of despereaux&lt;/li&gt;&#xA;&lt;li&gt;dune and children of dune (i hated the dune movies, but the book is great)&lt;/li&gt;&#xA;&lt;li&gt;the girl who drank the moon&lt;/li&gt;&#xA;&lt;li&gt;the mountains sing&lt;/li&gt;&#xA;&lt;li&gt;black sun&lt;/li&gt;&#xA;&lt;li&gt;solutions and other problems &amp;amp; hyperbole and a half, allie brosh&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;movies&#34;&gt;&#xA;  movies&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#movies&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mr. nobody&lt;/li&gt;&#xA;&lt;li&gt;parasite&lt;/li&gt;&#xA;&lt;li&gt;puss in boots, the last wish&lt;/li&gt;&#xA;&lt;li&gt;after yang&lt;/li&gt;&#xA;&lt;li&gt;shrek&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>milestones</title>
-      <link>http://localhost:1313/docs/milestones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/milestones/</guid>
-      <description>&lt;h1 id=&#34;milestones&#34;&gt;&#xA;  milestones&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#milestones&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;2026-29&#34;&gt;&#xA;  2026 (29)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2026-29&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;started reading magazines on my phone on Libby&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2025-28&#34;&gt;&#xA;  2025 (28)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2025-28&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;princess muffalo &amp;lt;3&lt;/li&gt;&#xA;&lt;li&gt;Tết đầu tiên ở Việt Nam&lt;/li&gt;&#xA;&lt;li&gt;Bất đầu học tiếng Việt ở VLS&lt;/li&gt;&#xA;&lt;li&gt;another kung fu tournament! got medals for the first time&lt;/li&gt;&#xA;&lt;li&gt;started CPTSD therapy&lt;/li&gt;&#xA;&lt;li&gt;-15% BW&lt;/li&gt;&#xA;&lt;li&gt;learned about eating fiber and protein&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2024-27&#34;&gt;&#xA;  2024 (27)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2024-27&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;baked a lot of sourdough bread :D&lt;/li&gt;&#xA;&lt;li&gt;took a break from everything&lt;/li&gt;&#xA;&lt;li&gt;learned to identify a mourning dove (Zenaida macroura)&lt;/li&gt;&#xA;&lt;li&gt;tried flameworking (glass) and throwing on a pottery wheel&lt;/li&gt;&#xA;&lt;li&gt;Dream Prius&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2023-26&#34;&gt;&#xA;  2023 (26)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2023-26&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;biked from boston to canada&lt;/li&gt;&#xA;&lt;li&gt;hit by (someone driving) a car while on bike&lt;/li&gt;&#xA;&lt;li&gt;kung fu tournament&lt;/li&gt;&#xA;&lt;li&gt;had a kitchen counter&lt;/li&gt;&#xA;&lt;li&gt;chose paint colors for own home&lt;/li&gt;&#xA;&lt;li&gt;started paying dad&amp;rsquo;s utility bills&lt;/li&gt;&#xA;&lt;li&gt;surly midnight special, in perry winkle&amp;rsquo;s sparkle&lt;/li&gt;&#xA;&lt;li&gt;learned about protein&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2022-25&#34;&gt;&#xA;  2022 (25)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2022-25&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;prefrontal cortex developed&lt;/li&gt;&#xA;&lt;li&gt;published in brick lit mag + talk&lt;/li&gt;&#xA;&lt;li&gt;learned how to cartwheel?&lt;/li&gt;&#xA;&lt;li&gt;learned how to weld (tig, mig, stick); welded a metal flower that could be used as a weapon&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>starter kits</title>
-      <link>http://localhost:1313/docs/starter-kits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/starter-kits/</guid>
-      <description>&lt;h1 id=&#34;starter-kits&#34;&gt;&#xA;  starter kits&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#starter-kits&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;one of my special interests is learning about skill sets that could &lt;em&gt;become&lt;/em&gt; new special interests. the kits below are some of my favorites!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/starter-kits/sourdough/&#34;&gt;sourdough&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/starter-kits/digital-intentionalism/&#34;&gt;digital intentionalism&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/starter-kits/foraging/&#34;&gt;foraging&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>comics</title>
-      <link>http://localhost:1313/docs/comics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/comics/</guid>
-      <description>&lt;h1 id=&#34;comics&#34;&gt;&#xA;  comics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#comics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.webtoons.com/en/canvas/them/list?title_no=849768&amp;amp;title_no=849768&#34;&gt;them&lt;/a&gt;. my first webtoon!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on mattekir.win</title><link>https://mattekir.win/docs/</link><description>Recent content in Docs on mattekir.win</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://mattekir.win/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>BIFL Index</title><link>https://mattekir.win/docs/bifl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/bifl/</guid><description>&lt;h1 id="bifl-buy-it-for-life">
+ BIFL: Buy It for Life
+ &lt;a class="anchor" href="#bifl-buy-it-for-life">#&lt;/a>
+&lt;/h1>
+&lt;p>Below is a collection of the &amp;ldquo;best tools for the job&amp;rdquo; that I have researched so far.&lt;/p>
+&lt;p>I live by the philosophy of buying well, not often. Growing up, my family would re-buy the same shitty space heater and it would break every year. This not only creates waste on our precious planet, but it&amp;rsquo;s also more expensive in the long run!&lt;/p>
+&lt;p>Of course, living this philosophy requires some money, as the better quality item isn&amp;rsquo;t as cheap. But, if you save up and prioritize your funds, you can do it. You can also look into buying items used (e.g. eBay, FB marketplace/Craigslist, yard/estate sales). Often used items are in great condition, you can get a better deal, and keep an item out of the landfill.&lt;/p></description></item><item><title>compendium</title><link>https://mattekir.win/docs/compendium/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/compendium/</guid><description>&lt;h1 id="compendium">
+ compendium
+ &lt;a class="anchor" href="#compendium">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="compendium-noun">
+ compendium (noun):
+ &lt;a class="anchor" href="#compendium-noun">#&lt;/a>
+&lt;/h2>
+&lt;p>(1) A list or collection of various items.
+(2) A brief compilation or composition, containing the principal heads, or general principles, of a larger work or system; an abridgment; an epitome; a compend; a condensed summary.&lt;/p>
+&lt;h3 id="a">
+ A
+ &lt;a class="anchor" href="#a">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>ADHD
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/c/HowtoADHD/videos">How to ADHD YouTube Channel&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&amp;ldquo;Alexander&amp;rdquo; Technique: &lt;a href="https://www.easeofbeing.com/">Tommy&amp;rsquo;s Website&lt;/a>, &lt;a href="https://theresonanceflow.com/">Ari&amp;rsquo;s Blog&lt;/a>&lt;/li>
+&lt;li>Alchemy of Souls (2022-2023)&lt;/li>
+&lt;li>Apioperdon pyriforme, pear-shaped puffball mushroom&lt;/li>
+&lt;/ul>
+&lt;h3 id="b">
+ B
+ &lt;a class="anchor" href="#b">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>bikes, bicycles&lt;/li>
+&lt;li>bike helmet: &lt;a href="https://ridelumos.com/products/lumos-ultra?variant=40418362163356">Lumos Ultra Helmet MIPS&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="c">
+ C
+ &lt;a class="anchor" href="#c">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>cats [TODO link page]&lt;/li>
+&lt;li>CPTSD: &lt;a href="https://www.goodreads.com/book/show/20556323-complex-ptsd">Complex PTSD Bible&lt;/a>, &lt;a href="https://pete-walker.com/complex_ptsd_book.html">Pete Walker&amp;rsquo;s Website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="e">
+ E
+ &lt;a class="anchor" href="#e">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>emulation, gaming and operating systems
+&lt;ul>
+&lt;li>OnionOS on Miyoo Mini+&lt;/li>
+&lt;li>Wine on Linux&lt;/li>
+&lt;li>VirtualBox&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="f">
+ F
+ &lt;a class="anchor" href="#f">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>fire emblem (awakening, three houses, GBA, birthright, engage)&lt;/li>
+&lt;li>foraging
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/c/BlackForager">The Black Forager&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/foraging/">Matte&amp;rsquo;s foraging starter kit&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>football: soccer&amp;rsquo;s real name&lt;/li>
+&lt;/ul>
+&lt;h3 id="g">
+ G
+ &lt;a class="anchor" href="#g">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.grinnell.edu/">Grinnell&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="l">
+ L
+ &lt;a class="anchor" href="#l">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Latios&lt;/li>
+&lt;li>Lenovo ThinkPad T420&lt;/li>
+&lt;li>linux: Ubuntu, Debian, Pop_OS!&lt;/li>
+&lt;/ul>
+&lt;h3 id="m">
+ M
+ &lt;a class="anchor" href="#m">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>matte, like the texture&lt;/li>
+&lt;li>martial arts
+&lt;ul>
+&lt;li>&lt;a href="https://www.wahlumacademy.com/">Wah Lum Kung Fu&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://metro.slps.org/">Metro&lt;/a>&lt;/li>
+&lt;li>memory system, indexed: way of efficiently storing and accesisng information via LLM agent, resulting in efficient token use, low costs, and accurate results.&lt;/li>
+&lt;li>muffin, muffalo&lt;/li>
+&lt;li>&lt;a href="https://www.mynwoodcatjackets.com/madetomeasure">Mynwood Cat Jackets&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="p">
+ P
+ &lt;a class="anchor" href="#p">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Pokémon
+&lt;ul>
+&lt;li>sapphire and ruby&lt;/li>
+&lt;li>unbound&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Prius, Toyota: the car that nice families with a dog, that go on vacation and don&amp;rsquo;t beat their kids have&lt;/li>
+&lt;/ul>
+&lt;h3 id="r">
+ R
+ &lt;a class="anchor" href="#r">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>reflective gear (running, biking): &lt;a href="https://www.noxgear.com/tracer2">NoxGear Tracer2&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="s">
+ S
+ &lt;a class="anchor" href="#s">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/@theschooloflifetv">School of Life, The&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/St._Louis">St. Louis&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="v">
+ V
+ &lt;a class="anchor" href="#v">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>VHS (&lt;a href="https://retroscaler.net/">RetroScaler2x RCA to HDMI adapter&lt;/a>)&lt;/li>
+&lt;/ul></description></item><item><title>favorite stories</title><link>https://mattekir.win/docs/stories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/stories/</guid><description>&lt;h1 id="favorite-stories">
+ favorite stories
+ &lt;a class="anchor" href="#favorite-stories">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="anime">
+ anime
+ &lt;a class="anchor" href="#anime">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>my hero academia&lt;/li>
+&lt;li>ranma 1/2&lt;/li>
+&lt;li>dbz&lt;/li>
+&lt;li>blue period&lt;/li>
+&lt;li>parasyte&lt;/li>
+&lt;li>violet evergarden&lt;/li>
+&lt;li>attack on titan&lt;/li>
+&lt;li>revolutionary girl utena&lt;/li>
+&lt;/ul>
+&lt;h2 id="manga">
+ manga
+ &lt;a class="anchor" href="#manga">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>blue period&lt;/li>
+&lt;li>my dress-up darling&lt;/li>
+&lt;/ul>
+&lt;h2 id="anime-movies">
+ anime movies
+ &lt;a class="anchor" href="#anime-movies">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>suzume&lt;/li>
+&lt;li>spirited away&lt;/li>
+&lt;li>pokemon heroes: the movie (latios and latias)&lt;/li>
+&lt;/ul>
+&lt;h2 id="tv-shows">
+ tv shows
+ &lt;a class="anchor" href="#tv-shows">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>legend of korra&lt;/li>
+&lt;li>alchemy of souls&lt;/li>
+&lt;li>the owl house&lt;/li>
+&lt;li>orphan black&lt;/li>
+&lt;li>avatar: the last airbender&lt;/li>
+&lt;li>the dragon prince&lt;/li>
+&lt;li>one piece (netflix, live)&lt;/li>
+&lt;li>futurama&lt;/li>
+&lt;li>extraordinary attorney woo&lt;/li>
+&lt;li>sense8&lt;/li>
+&lt;li>bluey&lt;/li>
+&lt;li>pose&lt;/li>
+&lt;li>she-ra&lt;/li>
+&lt;li>tuca and bertie&lt;/li>
+&lt;li>sex education&lt;/li>
+&lt;li>the witcher&lt;/li>
+&lt;/ul>
+&lt;h2 id="books">
+ books
+ &lt;a class="anchor" href="#books">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>light from uncommon stars&lt;/li>
+&lt;li>PET&lt;/li>
+&lt;li>iron widow&lt;/li>
+&lt;li>six crimson cranes / the dragon&amp;rsquo;s promise&lt;/li>
+&lt;li>legendborn, bloodmarked, oathbound&lt;/li>
+&lt;li>iron widow, heavenly tyrant&lt;/li>
+&lt;li>the little prince&lt;/li>
+&lt;li>on earth we&amp;rsquo;re briefly gorgeous&lt;/li>
+&lt;li>the magic fish&lt;/li>
+&lt;li>the alchemist&lt;/li>
+&lt;li>in the dream house&lt;/li>
+&lt;li>inheritance cycle&lt;/li>
+&lt;li>the elegance of the hedgehog&lt;/li>
+&lt;li>a mango shaped space&lt;/li>
+&lt;li>the miraculous journey of edward tulane&lt;/li>
+&lt;li>the tale of despereaux&lt;/li>
+&lt;li>dune and children of dune (i hated the dune movies, but the book is great)&lt;/li>
+&lt;li>the girl who drank the moon&lt;/li>
+&lt;li>the mountains sing&lt;/li>
+&lt;li>black sun&lt;/li>
+&lt;li>solutions and other problems &amp;amp; hyperbole and a half, allie brosh&lt;/li>
+&lt;/ul>
+&lt;h2 id="movies">
+ movies
+ &lt;a class="anchor" href="#movies">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>mr. nobody&lt;/li>
+&lt;li>parasite&lt;/li>
+&lt;li>puss in boots, the last wish&lt;/li>
+&lt;li>after yang&lt;/li>
+&lt;li>shrek&lt;/li>
+&lt;/ul></description></item><item><title>starter kits</title><link>https://mattekir.win/docs/starter-kits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/starter-kits/</guid><description>&lt;h1 id="starter-kits">
+ starter kits
+ &lt;a class="anchor" href="#starter-kits">#&lt;/a>
+&lt;/h1>
+&lt;p>one of my special interests is learning about skill sets that could &lt;em>become&lt;/em> new special interests. the kits below are some of my favorites!&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/sourdough/">sourdough&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/digital-intentionalism/">digital intentionalism&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mattekir.win/starter-kits/foraging/">foraging&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>milestones</title><link>https://mattekir.win/docs/milestones/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/milestones/</guid><description>&lt;h1 id="milestones">
+ milestones
+ &lt;a class="anchor" href="#milestones">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="2026-29">
+ 2026 (29)
+ &lt;a class="anchor" href="#2026-29">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>started reading magazines on my phone on Libby&lt;/li>
+&lt;li>bất đầu học tiếng việt trên mạng&lt;/li>
+&lt;li>placed at kf tournament&lt;/li>
+&lt;li>made sourdough with inclusions (e.g. cinnamon raisin, ginger + sage butter)&lt;/li>
+&lt;/ul>
+&lt;h2 id="2025-28">
+ 2025 (28)
+ &lt;a class="anchor" href="#2025-28">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>princess muffalo &amp;lt;3&lt;/li>
+&lt;li>Tết đầu tiên ở Việt Nam&lt;/li>
+&lt;li>Bất đầu học tiếng Việt ở VLS&lt;/li>
+&lt;li>another kung fu tournament! got medals for the first time&lt;/li>
+&lt;li>started CPTSD therapy&lt;/li>
+&lt;li>-15% BW&lt;/li>
+&lt;li>learned about eating fiber and protein&lt;/li>
+&lt;/ul>
+&lt;h2 id="2024-27">
+ 2024 (27)
+ &lt;a class="anchor" href="#2024-27">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>baked a lot of sourdough bread :D&lt;/li>
+&lt;li>took a break from everything&lt;/li>
+&lt;li>learned to identify a mourning dove (Zenaida macroura)&lt;/li>
+&lt;li>tried flameworking (glass) and throwing on a pottery wheel&lt;/li>
+&lt;li>Dream Prius&lt;/li>
+&lt;/ul>
+&lt;h2 id="2023-26">
+ 2023 (26)
+ &lt;a class="anchor" href="#2023-26">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>biked from boston to canada&lt;/li>
+&lt;li>hit by (someone driving) a car while on bike&lt;/li>
+&lt;li>kung fu tournament&lt;/li>
+&lt;li>had a kitchen counter&lt;/li>
+&lt;li>chose paint colors for own home&lt;/li>
+&lt;li>started paying dad&amp;rsquo;s utility bills&lt;/li>
+&lt;li>surly midnight special, in perry winkle&amp;rsquo;s sparkle&lt;/li>
+&lt;li>learned about protein&lt;/li>
+&lt;/ul>
+&lt;h2 id="2022-25">
+ 2022 (25)
+ &lt;a class="anchor" href="#2022-25">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>prefrontal cortex developed&lt;/li>
+&lt;li>published in brick lit mag + talk&lt;/li>
+&lt;li>learned how to cartwheel?&lt;/li>
+&lt;li>learned how to weld (tig, mig, stick); welded a metal flower that could be used as a weapon&lt;/li>
+&lt;/ul></description></item><item><title>comics</title><link>https://mattekir.win/docs/comics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mattekir.win/docs/comics/</guid><description>&lt;h1 id="comics">
+ comics
+ &lt;a class="anchor" href="#comics">#&lt;/a>
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://www.webtoons.com/en/canvas/them/list?title_no=849768&amp;amp;title_no=849768">them&lt;/a>. my first webtoon!&lt;/li>
+&lt;/ul></description></item></channel></rss>
