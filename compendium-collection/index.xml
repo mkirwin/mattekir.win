@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Compendium-Collections on mattekir.win</title><link>https://mattekir.win/compendium-collection/</link><description>Recent content in Compendium-Collections on mattekir.win</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2026 01:04:02 -0400</lastBuildDate><atom:link href="https://mattekir.win/compendium-collection/index.xml" rel="self" type="application/rss+xml"/><item><title>Hair</title><link>https://mattekir.win/compendium-collection/hair/</link><pubDate>Wed, 07 Oct 2026 01:04:02 -0400</pubDate><guid>https://mattekir.win/compendium-collection/hair/</guid><description>&lt;h1 id="hair">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Compendium-Collections on mattekir.win</title><link>https://mattekir.win/compendium-collection/</link><description>Recent content in Compendium-Collections on mattekir.win</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2026 20:57:33 -0400</lastBuildDate><atom:link href="https://mattekir.win/compendium-collection/index.xml" rel="self" type="application/rss+xml"/><item><title>Hair</title><link>https://mattekir.win/compendium-collection/hair/</link><pubDate>Wed, 07 Oct 2026 01:04:02 -0400</pubDate><guid>https://mattekir.win/compendium-collection/hair/</guid><description>&lt;h1 id="hair">
  hair
  &lt;a class="anchor" href="#hair">#&lt;/a>
 &lt;/h1>
@@ -50,4 +50,72 @@
 &lt;li>they&amp;rsquo;re customizable (fabric, embroidery, reflective strips, airtag pockets, tripod/three-legged cats etc.)&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Internet Safety</title><link>https://mattekir.win/compendium-collection/internet-safety/</link><pubDate>Tue, 13 Oct 2026 20:57:33 -0400</pubDate><guid>https://mattekir.win/compendium-collection/internet-safety/</guid><description>&lt;h1 id="internet-safety">
+ internet safety
+ &lt;a class="anchor" href="#internet-safety">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="ad-blocking">
+ ad blocking
+ &lt;a class="anchor" href="#ad-blocking">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>ublock origin browser extension&lt;/li>
+&lt;li>VPN ad blocking&lt;/li>
+&lt;/ul>
+&lt;h2 id="browsers">
+ browsers
+ &lt;a class="anchor" href="#browsers">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>firefox or librewolf&lt;/li>
+&lt;li>Tor, also for deepweb browsing&lt;/li>
+&lt;li>Brave (for iOS)&lt;/li>
+&lt;/ul>
+&lt;h2 id="media">
+ media
+ &lt;a class="anchor" href="#media">#&lt;/a>
+&lt;/h2>
+&lt;p>search for these terms on any private search engine&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://libbyapp.com/">libby app&lt;/a> + a library card number from your local library! you can get this free and likely online!&lt;/li>
+&lt;li>&lt;a href="https://www.kanopy.com/">https://www.kanopy.com/&lt;/a>: library-powered media streaming service&lt;/li>
+&lt;li>&lt;a href="https://archive.org/">https://archive.org/&lt;/a>&lt;/li>
+&lt;li>yarrlist&lt;/li>
+&lt;li>libgen&lt;/li>
+&lt;li>anna&amp;rsquo;s archive&lt;/li>
+&lt;/ul>
+&lt;h2 id="negative-actions-to-take">
+ negative actions to take
+ &lt;a class="anchor" href="#negative-actions-to-take">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>disable face ID / biometrics on your devices&lt;/li>
+&lt;li>don&amp;rsquo;t install smart cameras or wifi-connected appliances&lt;/li>
+&lt;li>don&amp;rsquo;t upload personal information to Meta apps, other social media sites&lt;/li>
+&lt;li>opt out of facial recognition scans at airports&lt;/li>
+&lt;/ul>
+&lt;h2 id="operating-systems">
+ operating systems
+ &lt;a class="anchor" href="#operating-systems">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>TAILS linux for PCs&lt;/li>
+&lt;li>GrapheneOS (degoogled mobile OS) for google pixel phones
+&lt;ul>
+&lt;li>i&amp;rsquo;ve only read about this, but i do find it ironic that GrapheneOS is made specifically for a google-manufactured device.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="proxying">
+ proxying
+ &lt;a class="anchor" href="#proxying">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>proxy emails (SimpleLogin, included with Proton subscription // iCloud email aliases // &lt;a href="https://www.wikihow.com/Use-Plus-Addressing-in-Gmail">plus-addressing&lt;/a>)&lt;/li>
+&lt;li>using a google voice or other virtual phone number for sign-ups&lt;/li>
+&lt;/ul>
+&lt;h2 id="search-engines">
+ search engines
+ &lt;a class="anchor" href="#search-engines">#&lt;/a>
+&lt;/h2>
+&lt;p>google is a giant tracking / ad machine. Use another search engine.&lt;/p></description></item></channel></rss>
